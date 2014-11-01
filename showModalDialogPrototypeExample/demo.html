@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>prototype showModalDialog  demo</title>
+    </head>
+    <body>
+      <h1>prototype showModalDialog  demo</h1>
+  
+	  <input id="button2" type="button" value="Show Modal Dialog via prototype " / >
+
+      <script src="showModalDialog.js"></script>
+ 
+      <script type="text/javascript">
+	document.getElementById('button2').addEventListener('click', function() {
+	  var ret = window.showModalDialog("demo-modal.html", "some argument", "dialogWidth:500px;dialogHeight:200px");
+	  alert("Returned from modal: " + ret);
+	});
+      </script>
+    </body>
+</html>

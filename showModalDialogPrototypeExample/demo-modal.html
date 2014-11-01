@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>showModalDialog modal demo</title>
+         <script type="text/javascript">
+             //document.getElementById('arg').innerHTML = window.dialogArguments;
+             function go_cancel() {
+                 document.getElementById('nm').value = '';
+             }
+             function go_ok() {
+                 window.returnValue = "Hello " + document.getElementById('nm').value;
+                 alert('go_ok:' + window.returnValue);
+                 console.log(window.opener);
+                 self.close();
+
+                 //window.opener.getElementById('dialog').close();
+             }
+
+             //window.returnValue = "Hello" + document.getElementById('nm').value;
+      </script>
+    </head>
+    <body>
+      <h1>showModalDialog modal demo</h1>
+      <p>Dialog argments: <span id="arg"></span></p>
+      Enter your name:<input id = 'nm' type='text' value='' />
+      <br />
+      <input type="button" value='ok' onclick = 'go_ok();' />
+      <input type="button" value='cancel' onclick = 'go_cancel()' />
+   
+    </body>
+</html>
