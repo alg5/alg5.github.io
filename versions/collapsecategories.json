@@ -1,0 +1,19 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.2",
+            "announcement": "http://www.phpbbguru.net/community/topic42783.html",
+            "download": "https://github.com/alg5/CollapseCategories",
+            "eol": null,
+            "security": false
+        },
+		unstable": {
+        "1.0": {
+            "current": "1.0.3",
+            "announcement": "http://www.phpbbguru.net/community/topic42783.html",
+            "download": "https://github.com/alg5/CollapseCategories",
+            "eol": null,
+            "security": false
+        }
+    }
+}
