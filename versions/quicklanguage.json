@@ -1,0 +1,19 @@
+{
+    "stable": {
+        "1.0": {
+            "current": "1.0.0",
+            "announcement": "http://www.phpbbguru.net/community/topic42536.html",
+            "download": "https://github.com/alg5/quicklanguage",
+            "eol": null,
+            "security": false
+        },
+		unstable": {
+        "1.0": {
+            "current": "1.0.1",
+            "announcement": "http://www.phpbbguru.net/community/topic42536.html",
+            "download": "https://github.com/alg5/quicklanguage",
+            "eol": null,
+            "security": false
+        }
+    }
+}
