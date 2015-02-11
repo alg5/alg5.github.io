@@ -1,16 +1,16 @@
 {
     "stable": {
         "1.0": {
-            "current": "1.0.0",
-            "announcement": "http://anderson.phpbbguru.net/viewtopic.php?f=5&t=52",
+            "current": "1.0.1",
+            "announcement": "http://www.phpbbguru.net/community/topic42381.html",
             "download": "https://github.com/alg5/ForumSponsor",
             "eol": null,
             "security": false
         },
 		unstable": {
         "1.0": {
-            "current": "1.0.1",
-            "announcement": "http://anderson.phpbbguru.net/viewtopic.php?f=5&t=52",
+            "current": "1.0.2",
+            "announcement": "http://www.phpbbguru.net/community/topic42381.html",
             "download": "https://github.com/alg5/ForumSponsor",
             "eol": null,
             "security": false
