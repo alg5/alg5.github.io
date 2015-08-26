@@ -6,8 +6,9 @@
             "download": "https://github.com/alg5/newpmajax",
             "eol": null,
             "security": false
-        },
-		unstable": {
+        }
+    },
+    "unstable": {
         "1.0": {
             "current": "1.0.2",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2325441",
