@@ -6,8 +6,9 @@
             "download": "https://github.com/alg5/liveSearch",
             "eol": null,
             "security": false
-        },
-		unstable": {
+        }
+    },
+    "unstable": {
         "1.0": {
             "current": "1.0.9",
             "announcement": "http://anderson.phpbbguru.net/viewtopic.php?f=5&t=59",
