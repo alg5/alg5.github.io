@@ -8,12 +8,12 @@
             "security": false
         }
     },
-	unstable": {
+    "unstable": {
     "2.0": {
         "current": "2.0.3",
             "announcement": "http://anderson.phpbbguru.net/viewtopic.php?f=5&t=52",
             "download": "https://github.com/alg5/AddonForThanksForPosts",
         "security": false
-		}
+        }
     }
 }
