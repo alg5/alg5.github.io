@@ -1,7 +1,7 @@
 {
     "stable": {
-        "1.0.4": {
-            "current": "1.0.5",
+        "1.0.5": {
+            "current": "1.0.6",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2329541",
             "download": "https://github.com/alg5/adminnotifications",
             "eol": null,
