@@ -1,16 +1,7 @@
 {
     "stable": {
-        "1.0": {
-            "current": "2.0.1",
-            "announcement": "http://www.phpbbguru.net/community/topic42381.html",
-            "download": "https://github.com/alg5/ForumSponsor",
-            "eol": null,
-            "security": false
-        }
-    },
-    "unstable": {
-        "1.0": {
-            "current": "2.0.2",
+        "2.0.2": {
+            "current": "2.0.3",
             "announcement": "http://www.phpbbguru.net/community/topic42381.html",
             "download": "https://github.com/alg5/ForumSponsor",
             "eol": null,
