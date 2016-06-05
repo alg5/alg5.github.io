@@ -1,7 +1,7 @@
 {
     "stable": {
-        "2.0.2": {
-            "current": "2.0.1",
+        "2.0.3": {
+            "current": "2.0.2",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2333456",
             "download": "https://github.com/alg5/liveSearch",
             "eol": null,

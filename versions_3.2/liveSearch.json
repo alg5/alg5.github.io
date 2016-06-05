@@ -1,6 +1,6 @@
 {
     "stable": {
-        "3.0.0": {
+        "3.0.1": {
             "current": "3.0.0",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2333456",
             "download": "https://github.com/alg5/liveSearch/tree/dev_3.2.x",
