@@ -1,9 +1,9 @@
 {
     "stable": {
-        "2.0.5": {
-            "current": "2.0.6",
+        "2.0.7": {
+            "current": "2.0.8",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2259666",
-            "download": "https://github.com/alg5/AddonForThanksForPosts",
+            "download": "https://github.com/alg5/addonforthanksforposts",
             "eol": null,
             "security": false
         }
