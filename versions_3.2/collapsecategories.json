@@ -1,7 +1,7 @@
 {
     "stable": {
         "1.0.0": {
-            "current": "2.0.1",
+            "current": "2.0.2",
             "announcement": "https://www.phpbbguru.net/community/viewtopic.php?f=64&t=42783",
             "download": "https://github.com/alg5/collapsecategories",
             "eol": null,
