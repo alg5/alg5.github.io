@@ -1,6 +1,6 @@
 {
     "stable": {
-        "3.0.7": {
+        "3.0.10": {
             "current": "3.0.8",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2259666",
             "download": "https://github.com/alg5/AddonForThanksForPosts/tree/dev_3.2.x",
